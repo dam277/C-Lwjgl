@@ -23,7 +23,7 @@
 <div align="center">
 
    ## The course
-   The consists of learning how to do an LWJGL project to do my future project with that library more easily
+   The course consists of learning LWJGL library and how to do an LWJGL project to do my future project with that library more easily
 
    ## Contributors
    | <b> <a href="https://github.com/dam277">Damien Loup</a> </b>       |
